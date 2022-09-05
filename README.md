@@ -19,6 +19,7 @@
 </details>
 
 ## 분석들
+
 ### 숙제 URL 분석
 <details>
   <summary><b>접기/열기</b></summary>
@@ -36,8 +37,9 @@
   <b>
   위 링크에서 [std_id=뒤의 부분은 학생(자신)의 id], [sem_id=뒤의 부분은 현재 학기의 id], [top_cors_id=뒤의 부분은 현재 확인 불가], [cid=뒤의 부분은 chapter id 즉 현재 챕터의 고유 id], [g_seq=뒤의 부분은 현재 숙제의 고유 id]</b>
 </details>
+  
 
-### PersonalLog URL 분석  
+### PersonalLog URL 분석
 <details>
   <summary><b>접기/열기</b></summary>
   
