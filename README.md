@@ -21,7 +21,7 @@
 ## 분석들
  
 <details>
-  <summary><b>#숙제-URL 분석</b></summary>
+  <summary><b># 숙제-URL 분석</b></summary>
 
   <https://learning.chungdahm.com/cdi/iLearning> 에 접속 후 로그인
   ![learning chungdahm com_cdi_iLearning](https://user-images.githubusercontent.com/73765768/188362396-8659bf9b-4208-4dbd-928f-090246ac5ce9.png)
@@ -38,7 +38,7 @@
 </details>
 
 <details>
-  <summary><b>#PersonalLog-URL 분석</b></summary>
+  <summary><b># PersonalLog-URL 분석</b></summary>
   
   예로는 <https://learning.chungdahm.com/cdi/personalLog/1635080> 에서 personalLog 뒤의 숫자는 학생의 id이다.
 
