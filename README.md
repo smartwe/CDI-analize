@@ -1,6 +1,14 @@
 # CDI-analize
 청담 사이트를 분석하는 프로젝트
 모든 분석 내용이 맞지 않습니다.
+
+## 들어가면서....
+<details>
+  <summary>접기/열기</summary>
+  청담 관계자들 지금 만해도 찾은 보안 취약점이 여러개입니다.
+  제발 해결해주세요..
+</details>
+
 <details>
   <summary><h3>목차</h3></summary>
   
