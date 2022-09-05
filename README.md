@@ -28,5 +28,6 @@
 
 <details>
   <summary><b>PersonalLog URL 분석</b></summary>
+  예로는  <https://learning.chungdahm.com/cdi/personalLog/1635080> 에서 personalLog 뒤의 숫자는 학생의 id이다.
 
 </details>
